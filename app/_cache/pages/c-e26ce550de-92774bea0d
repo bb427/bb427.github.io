@@ -1,0 +1,107 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+	"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>Bb's Portfolio</title>
+		<link rel="alternate" type="application/atom+xml" href="../?/feed/">
+		<link rel="stylesheet" href="../public/docs/css/screen.css" type="text/css" media="screen"> 
+	</head>
+	<body>
+		<div id="container">
+			<h1 class="col four">
+				<a href="../">Bb</a> / 
+			</h1>
+			<em class="col three"><p><a href="&#x6d;&#97;&#x69;&#108;t&#x6f;&#58;&#x77;&#101;&#108;&#x63;&#111;&#x6d;&#101;&#46;&#x68;&#101;&#x6c;&#x6c;&#111;&#x2e;&#98;b&#x40;&#103;&#x6d;&#97;i&#x6c;&#46;&#x63;&#111;&#109;">&#x77;&#101;&#108;&#x63;&#111;&#x6d;&#101;&#46;&#x68;&#101;&#x6c;&#x6c;&#111;&#x2e;&#98;b&#x40;&#103;&#x6d;&#97;i&#x6c;&#46;&#x63;&#111;&#109;</a></p>
+</em>
+			<hr>
+			<div id="navigation" class="col three">
+<ul>
+    <li><em>-----------</em></li>
+    <em>  <ul class="children">
+          <li>
+        <a href="../info/about/">About</a>
+              </li>
+          <li>
+        <a href="../info/contact/">Contact</a>
+              </li>
+          <li>
+        <a href="../info/press/">Press</a>
+              </li>
+      </ul>
+</em>
+    <li><em>Projects</em></li>
+    <em>  <ul class="children">
+          <li>
+        <a href="../projects/nonononono/">No No No No No</a>
+              </li>
+          <li>
+        <a href="../projects/q-seesigd2/">Q-SEE SIGD2</a>
+              </li>
+          <li>
+        <a href="../projects/atemporarycurse/">A Temporary Curse</a>
+              </li>
+          <li>
+        <a href="../projects/femmewrath/">Femmewrath</a>
+              </li>
+          <li>
+        <a href="../projects/brassinpocketthirdchorus/">Brass In Pocket, Third Chorus</a>
+              </li>
+          <li>
+        <a href="../projects/playroom/">Playroom</a>
+              </li>
+          <li>
+        <a href="../projects/slsleeping/">Slsleeping</a>
+              </li>
+          <li>
+        <a href="../projects/alivinglandscapeofprimordialsplendor/">A Living Landscape of Primordial Splendor</a>
+              </li>
+          <li>
+        <a href="../projects/somethings/">Somethings</a>
+              </li>
+          <li>
+        <a href="../projects/helloworld/">Hello World</a>
+              </li>
+      </ul>
+</em>
+    <li><em>Events</em></li>
+    <em>  <ul class="children">
+          <li>
+        <a href="../events/readinggroup/">Reading Group</a>
+              </li>
+          <li>
+        <a href="../events/abduali/">Abdu Ali</a>
+              </li>
+          <li>
+        <a href="../events/tomboram/">Tom Boram</a>
+              </li>
+          <li>
+        <a href="../events/sandysmith/">Sandy Smith</a>
+              </li>
+          <li>
+        <a href="../events/talkshow/">Talk Show</a>
+              </li>
+          <li>
+        <a href="../events/bennysvideo/">Benny's Video</a>
+              </li>
+          <li>
+        <a href="../events/drawingnight/">Drawing Night</a>
+              </li>
+      </ul>
+</em>
+</ul>
+</div>
+			<div id="content" class="home col eight">
+				<div id="media">
+  
+  
+  
+  
+</div>			</div>
+			<hr>
+			<p id="footer" class="col six">&copy; Copyright Bb 2019 <a class="atom-rss" href="../?/feed/">RSS</a><br>
+				<em>content managed by <a href="http://www.staceyapp.com">Stacey</a></em></p>
+		</div>
+		<script src="../public/docs/js/navigation.js" type="text/javascript" charset="utf-8"></script>
+	</body>
+</html>
